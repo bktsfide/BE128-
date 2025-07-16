@@ -1,2 +1,2 @@
 # BE128-
-backend uzmanlıığı giriş 
+backend uzmanlığı giriş 
